@@ -151,6 +151,8 @@ CEP 95174-274 (IFRS Farroupilha)
 - Reeleição: permitida.
 - Posse: 01/01 do ano subsequente à eleição.
 
+![Imagem teste](p-zaff/geifrsfarr/GE-ORGGram.png)
+
 ## Remuneração
 
 - Exercício gratuito (trabalho voluntário), salvo reembolso de despesas autorizadas.
