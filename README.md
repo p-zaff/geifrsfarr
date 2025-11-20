@@ -146,13 +146,18 @@ CEP 95174-274 (IFRS Farroupilha)
 
 ## Estrutura e mandato
 
-- Cargos: a definir em regulamento interno.
 - Mandato: 2 anos.
 - Reeleição: permitida.
 - Posse: 01/01 do ano subsequente à eleição.
+- Estrutura: a escolha de cada chapa, com base em uma das opções abaixo:
 
-![Imagem teste](GE-ORGGram.png)
+    1) Modelo de conselho de presidência (HORIZONTAL VERTICALIZADO por áreas)
+    
+    ![Exemplo de organograma/estrutura](GE-ORGHVA.png)
 
+    2) Modelo verticalizado (ENGESSADO por hierarquias)
+
+    ![Exemplo de organograma/estrutura](GE-ORGEH.png)
 ## Remuneração
 
 - Exercício gratuito (trabalho voluntário), salvo reembolso de despesas autorizadas.
