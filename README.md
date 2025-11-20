@@ -130,7 +130,7 @@ CEP 95174-274 (IFRS Farroupilha)
 - Quórum simples para matérias gerais: maioria (50% + 1 dos presentes ou dos associados, conforme o caso).
 - Quórum qualificado para alteração do estatuto, destituição e dissolução: 60%.
 - Votação: em regra, voto secreto para matérias eleitorais e outras previstas.
-- Desempate: decisão da presidência da mesa, composta pelo presidente e número igual de associados designados.
+- Desempate: decisão da presidência da mesa, composta pelos presidentes e número igual de associados designados.
 
 ## Mesa diretora e secretariado
 
@@ -238,4 +238,5 @@ CEP 95174-274 (IFRS Farroupilha)
 - Criação de departamentos ou filiais temporárias.
 - Uso da marca por terceiros: regras a definir.
 - Representação judicial e extrajudicial.
+
 - Vigência do estatuto: 5 anos, com necessidade de revisão ao final do período.
