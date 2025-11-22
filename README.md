@@ -116,17 +116,17 @@ Este README serve como **guia completo de instrução** para transferir o conhec
 | Aspecto | Estatuto Atual (Art. 8) | Plano de Reforma (Seção 9) |
 |---------|-------------------------|----------------------------|
 | **Órgão Fiscalizador** | "Não é obrigatório Conselho Fiscal" | **GFA obrigatório** |
-| **Composição** | Não definido | 4 membros: Presidente, Tesoureiro, Membro Externo, Responsável CNPJ |
+| **Composição** | Não definido | 4 membros: Presidente, Diretor de Finanças, Membro Externo, Responsável CNPJ |
 | **Frequência de Fiscalização** | Anual (AG final) | **Contínua** (mensal) |
-| **Assinatura de Relatórios** | Tesoureiro + Sec. Geral | **Tesoureiro + Membro Externo + 1** (obrigatório) |
+| **Assinatura de Relatórios** | Diretor de Finanças + Sec. Geral | **Diretor de Finanças + Membro Externo + 1** (obrigatório) |
 | **Transparência** | Publicação mensal (Art. 8, §2º) | Mantém + Homologação pelo GFA |
 
 **📐 ESTRUTURA DO GFA:**
 
 ```
 GFA (Grupo de Fiscalização e Auditoria)
-├── Presidência (membro interno)
-├── Tesoureiro (membro interno)
+├── Todos Presidência (membro interno)
+├── Diretor de Finanças (membro interno)
 ├── Membro da Comunidade Externa (OBRIGATÓRIO - auditor externo)
 └── Responsável pelo CNPJ (se houver)
 
@@ -161,8 +161,8 @@ Livre para uso: R$ 2.400
 #### 🔄 ALIENAÇÃO DE BENS
 
 **Art. 11.3 (NOVO):**
-- GFA pode aprovar alienação de bens até **5 salários-mínimos**
-- Acima disso, requer aprovação da Diretoria Executiva
+- DE pode aprovar alienação de bens até **5 salários-mínimos**
+- Acima disso, requer aprovação da GFA
 - Homologação obrigatória antes da efetivação
 
 ---
@@ -192,13 +192,10 @@ Livre para uso: R$ 2.400
 
 | Característica | Detalhamento |
 |----------------|--------------|
-| **Classificação** | Associados Apoiadores/Colaboradores |
-| **Voto na DE** | ❌ NÃO possuem |
-| **Contagem no Limite** | ❌ NÃO contam nos 10 membros votantes |
+| **Classificação** | Associados Dirigente |
+| **Voto na DE** | Possuem |
 | **Formalização** | ✅ Termo de Adesão obrigatório |
 | **Exemplos** | Vice-Secretário, Assessor de Com., Coord. de Projetos |
-
-**📌 JUSTIFICATIVA:** Resolve conflito de organogramas com >10 pessoas mantendo controle de poder de voto.
 
 ---
 
@@ -210,11 +207,11 @@ Livre para uso: R$ 2.400
 |---------|-------|---------|---------|
 | **Convocação** | Sem prazo definido | **15 dias de antecedência** | +Mobilização |
 | **Inclusão de Pautas** | ❌ Não previsto | **✅ Até 3 dias úteis antes** | +Democracia |
-| **Quórum de Urgência** | Art. 13, §2º (voto unânime) | **Maioria DE + unânime presentes** | +Clareza |
+| **Quórum de Urgência** | Art. 13, §2º (voto unânime) | **Aviso Prévio em Edital sobre tom de Urgência** | +Clareza |
 | **Continuação (Parte 2)** | ❌ Não previsto | **✅ Em até 48h (online/presencial)** | +Praticidade |
 | **Quórum Qualificado** | 2/3 para destituição | **✅ Mantido e formalizado** | Estabilidade |
 
-**📐 FLUXO DA AG COM CONTINUAÇÃO:**
+**📐 EXEMPLO DE FLUXO DA AG COM CONTINUAÇÃO:**
 
 ```
 AG PARTE 1 (Presencial - Dia 1)
@@ -235,24 +232,28 @@ AG PARTE 2 (Online - Até 48h depois)
 #### 🔄 DIRETORIA EXECUTIVA
 
 **Art. 15 - Composição (MANTIDO com DETALHAMENTO):**
-
 ```
-CARGOS OBRIGATÓRIOS (8):
-1. Presidente
-2. Vice-Presidente
-3. Secretário Geral
-4. Tesoureiro
-5. Diretor de Comunicação
-6. Diretor de Eventos
-7. Diretor Sociocultural
-8. Diretor de Políticas
+CARGOS OBRIGATÓRIOS (10):
+1. Cargos de Presidência (Contam como Cargos opcionais se escolhido horizontalizado, tem que totalizar no maximo 10 integrantes)
+2. (Se verticaliazado Vice-Presidente é obrigatório)
+3. Diretor de Secretáriado Geral
+4. Assesor de Secretáriado Geral
+5. Diretor de Finanças
+6. Diretor de Comunicação
+7. Diretor de Eventos
+8. Diretor Sociocultural
+9. Diretor de Políticas
+10. Diretor de Logística
 
-CARGOS OPCIONAIS (até 2):
-9. [Nome definido pela chapa]
-10. [Nome definido pela chapa]
+11. [Cargo opcional]
+12. [Cargo opcional]
+13. [Cargo opcional]
+14. [Cargo opcional]
 ```
 
-**⚠️ IMPORTANTE:** Os 2 cargos opcionais devem ter competências descritas no Plano de Gestão.
+
+
+**⚠️ IMPORTANTE:** Os 4 cargos opcionais devem ter competências descritas no Plano de Gestão.
 
 ---
 
@@ -260,7 +261,7 @@ CARGOS OPCIONAIS (até 2):
 
 **Art. 28 (REFORMADO) + Art. 27-A (NOVO):**
 
-##### CARGOS IMUTÁVEIS (Presidente, Vice, Tesoureiro):
+##### CARGOS IMUTÁVEIS (Presidente, Vice, Diretor de Finanças):
 
 ```
 REGRAS DE SUBSTITUIÇÃO:
@@ -488,8 +489,8 @@ ANEXO 2 - NORMAS CONTÁBEIS
 │   ├── Infraestrutura
 │   └── Reembolsos
 ├── 3. Fluxo de Aprovação
-│   ├── Gastos até R$ 500 → Tesoureiro
-│   ├── R$ 500 a 5 SM → Tesoureiro + GFA
+│   ├── Gastos até R$ 500 → Diretor de Finanças
+│   ├── R$ 500 a 5 SM → Diretor de Finanças + GFA
 │   └── Acima de 5 SM → DE completa
 └── 4. Relatórios Obrigatórios
     ├── Balancete mensal
@@ -560,7 +561,7 @@ VEDADO:
 |--------|----------------|------------------|--------|
 | Art. 5º | Constituição do patrimônio | 🔄 3 itens genéricos | 🟡 DETALHADO (+ marcas, direitos) |
 | Art. 6º | Receitas | ✅ 4 fontes | 🟢 SEM MUDANÇA |
-| Art. 7º | Gestão do Tesoureiro | ✅ Mantido | 🟢 SEM MUDANÇA |
+| Art. 7º | Gestão do Diretor de Finanças | ✅ Mantido | 🟢 SEM MUDANÇA |
 | Art. 8º | Transparência (sem Conselho Fiscal) | 🆕 Cria GFA | 🔴 SUBSTITUÍDO |
 | Art. 9º | Dissolução | 🔄 Bens para entidades congêneres | 🟡 DETALHADO (+ IFRS) |
 | — | — | 🆕 Art. 11.1: Fundo de Reserva | 🔴 NOVO |
@@ -578,7 +579,7 @@ VEDADO:
 | — | — | 🆕 Inclusão de pautas (3 dias úteis) | 🔴 NOVO |
 | — | — | 🆕 AG Parte 2 (48h) | 🔴 NOVO |
 | Art. 14 | DE é órgão executivo | ✅ Mantido | 🟢 SEM MUDANÇA |
-| Art. 15 | 8-10 cargos | ✅ Mantido | 🟢 SEM MUDANÇA |
+| Art. 15 | 8-10 cargos | 🔴 NOVO | 🟡 ALTERADO de 10-14 Integrantes/cargos |
 | — | — | 🆕 Modelos Verticalizado/Conselho | 🔴 NOVO |
 | — | — | 🆕 Hierarquia 3 níveis | 🔴 NOVO |
 | — | — | 🆕 Cargos subordinados (sem voto) | 🔴 NOVO |
@@ -634,7 +635,7 @@ VEDADO:
 #### ANTES DA REFORMA:
 ```
 FLUXO FINANCEIRO ATUAL:
-Receita → Tesoureiro registra → Relatório mensal → 
+Receita → Diretor de Finanças registra → Relatório mensal → 
 Publicação no site → AG anual aprova
 
 PROBLEMAS:
@@ -647,7 +648,7 @@ PROBLEMAS:
 #### DEPOIS DA REFORMA:
 ```
 FLUXO FINANCEIRO REFORMADO:
-Receita → Tesoureiro registra → Relatório mensal → 
+Receita → Diretor de Finanças registra → Relatório mensal → 
 GFA homologa (3 assinaturas) → Publicação → 
 20% vai para Fundo de Reserva → AG anual ratifica
 
@@ -692,20 +693,19 @@ PRESIDÊNCIA
     │
     ├─ DIRETORES (Nível 2 - 6 cargos com voto)
     │   ├─ Secretário Geral
-    │   ├─ Tesoureiro
+    │   ├─ Diretor de Finanças
     │   ├─ Dir. Comunicação
     │   ├─ Dir. Eventos
     │   ├─ Dir. Sociocultural
     │   └─ Dir. Políticas
     │
-    └─ EXECUTIVOS (Nível 3 - SEM voto)
+    └─ EXECUTIVOS (Nível 3 - com voto)
         ├─ Vice-Secretário (apoio ao Sec. Geral)
         ├─ Assessor de Comunicação (apoio à Dir. Com.)
         └─ Coordenador de Projetos (apoio à Dir. Sociocultural)
 
 TOTAL DE PESSOAS: 11
-TOTAL DE VOTANTES NA DE: 8 (Presidente + Vice + 6 Diretores)
-APOIADORES: 3 (Executivos de Nível 3)
+TOTAL DE VOTANTES NA DE: 11 (Presidente + Vice + 6 Diretores + 3 executivos)
 ```
 
 #### CENÁRIO 2: Chapa Inovadora (Modelo Conselho)
@@ -721,14 +721,14 @@ CONSELHO DE PRESIDÊNCIA (Nível 1 - liderança compartilhada)
     
 DIRETORES (Nível 2 - votam igualmente)
     ├─ Secretário Geral
-    ├─ Tesoureiro
+    ├─ Diretor de Finanças
     ├─ Dir. Comunicação
     ├─ Dir. Eventos
     ├─ Dir. Sociocultural
     └─ Dir. Políticas
 
 TOTAL DE PESSOAS: 8
-TOTAL DE VOTANTES NA DE: 8 (todos têm peso igual)
+TOTAL DE VOTANTES NA DE: 8 (Presidencia tem maior peso de voto)
 DIFERENCIAL: Presidência compartilhada, sem hierarquia vertical
 ```
 
@@ -739,7 +739,6 @@ DIFERENCIAL: Presidência compartilhada, sem hierarquia vertical
 | ✅ Cadeia de comando clara | ✅ Liderança distribuída |
 | ✅ Responsabilidades bem definidas | ✅ Reduz sobrecarga do Presidente |
 | ✅ Mais rápido em crises | ✅ Mais democrático |
-| ⚠️ Centraliza poder | ⚠️ Pode gerar conflitos de decisão |
 
 ---
 
@@ -852,7 +851,7 @@ Processo:
 Maria anuncia em outubro que vai formar em dezembro.
 
 PROBLEMA: Não há prazo definido para preparar substituto.
-Resultado comum: Novo Tesoureiro assume "no susto", sem treinamento.
+Resultado comum: Novo Diretor de Finanças assume "no susto", sem treinamento.
 ```
 
 **COM REFORMA (Art. 49-B):**
@@ -879,7 +878,7 @@ João está pronto para assumir:
   ✅ GFA valida a transição
   
 📅 DEZEMBRO (saída de Maria)
-João assume oficialmente como Tesoureiro.
+João assume oficialmente como Diretor de Finanças.
 Maria sai com tranquilidade, sabendo que deixou substituto preparado.
 ```
 
@@ -937,7 +936,7 @@ Maria sai com tranquilidade, sabendo que deixou substituto preparado.
 │   └── Rascunho inicial submetido à DE
 │
 ├── Semana 9-10: Elaboração do Anexo 2 (Normas Contábeis)
-│   ├── Tesoureiro lidera a redação
+│   ├── Diretor de Finanças lidera a redação
 │   ├── Classificação de receitas e despesas
 │   ├── Fluxos de aprovação por faixa de valor
 │   ├── Modelos de relatórios obrigatórios
@@ -968,7 +967,7 @@ Maria sai com tranquilidade, sabendo que deixou substituto preparado.
 │
 ├── Semana 15: Composição do GFA
 │   ├── Presidente (já definido)
-│   ├── Tesoureiro (já definido)
+│   ├── Diretor de Finanças (já definido)
 │   ├── Membro Externo (novo)
 │   └── Responsável CNPJ (se houver)
 │
@@ -994,13 +993,13 @@ Maria sai com tranquilidade, sabendo que deixou substituto preparado.
 │   └── Registro contábil inicial
 │
 ├── Semana 19: Implementação do Fluxo de Homologação
-│   ├── Tesoureiro elabora relatório mensal
-│   ├── 3 membros do GFA assinam (Tesoureiro + Externo + 1)
+│   ├── Diretor de Finanças elabora relatório mensal
+│   ├── 3 membros do GFA assinam (Diretor de Finanças + Externo + 1)
 │   ├── Relatório publicado no site
 │   └── Arquivo enviado ao Secretário Geral
 │
 └── Semana 20: Treinamento Financeiro
-    ├── Tesoureiro treina DE sobre novo fluxo
+    ├── Diretor de Finanças treina DE sobre novo fluxo
     ├── Apresentação do Anexo 2 para todos
     └── Simulação de aprovação de gastos
 
@@ -1185,12 +1184,12 @@ PARTE II - CLASSIFICAÇÃO DE DESPESAS
 PARTE III - FLUXO DE APROVAÇÃO
 
 1. GASTOS ATÉ R$ 500,00
-   Aprovação: Tesoureiro (decisão unilateral)
+   Aprovação: Diretor de Finanças (decisão unilateral)
    Documentação: Nota fiscal + justificativa
    Registro: Lançamento imediato no sistema
    
 2. GASTOS DE R$ 500,01 A 5 SALÁRIOS-MÍNIMOS
-   Aprovação: Tesoureiro + GFA (homologação)
+   Aprovação: Diretor de Finanças + GFA (homologação)
    Documentação: NF + justificativa + 3 orçamentos
    Registro: Pré-lançamento + homologação do GFA
    
@@ -1209,7 +1208,7 @@ PARTE IV - RELATÓRIOS OBRIGATÓRIOS
    - Saldo final
    - Cálculo do Fundo de Reserva (20% do lucro)
    
-   Assinaturas: Tesoureiro + 2 membros do GFA (incluindo Externo)
+   Assinaturas: Diretor de Finanças + 2 membros do GFA (incluindo Externo)
    Prazo: Até o 5º dia útil do mês seguinte
    Publicação: Site oficial + e-mail aos associados
 
@@ -1221,7 +1220,7 @@ PARTE IV - RELATÓRIOS OBRIGATÓRIOS
    - Evolução do Fundo de Reserva
    - Principais investimentos
    
-   Assinaturas: Tesoureiro + GFA completo
+   Assinaturas: Diretor de Finanças + GFA completo
    Prazo: Até 15 dias após fim do semestre
    Publicação: Site + apresentação na AG Ordinária
 
@@ -1233,7 +1232,7 @@ PARTE IV - RELATÓRIOS OBRIGATÓRIOS
    - Inventário de Bens
    - Notas Explicativas
    
-   Assinaturas: Presidente + Sec. Geral + Tesoureiro + GFA
+   Assinaturas: Presidente + Sec. Geral + Diretor de Finanças + GFA
    Prazo: Até 30 dias antes do fim do mandato
    Aprovação: Assembleia Geral Ordinária
 
@@ -1358,7 +1357,7 @@ Nome e Assinatura                            Nome e Assinatura
 | **Associado Honorário** | Pessoa (não-estudante) homenageada pelo Grêmio | Ex-diretor do Campus que apoiou os estudantes |
 | **Diretoria Executiva (DE)** | Órgão de gestão e execução, composto por 8-10 cargos eletivos | Presidente + Vice + 6 Diretores + 2 opcionais |
 | **Conselho de Representantes de Turma (CRT)** | Órgão auxiliar, composto por 1 representante por turma | 10 turmas = 10 representantes no CRT |
-| **Grupo de Fiscalização e Auditoria (GFA)** | Órgão de controle financeiro, com membro externo | Presidente + Tesoureiro + Contador externo + Resp. CNPJ |
+| **Grupo de Fiscalização e Auditoria (GFA)** | Órgão de controle financeiro, com membro externo | Presidente + Diretor de Finanças + Contador externo + Resp. CNPJ |
 | **Comissão Eleitoral (CE)** | Órgão temporário que organiza o processo eleitoral | 3 estudantes não-candidatos que conduzem a eleição |
 | **Fundo de Reserva** | 20% do lucro, destinado a emergências e investimentos | Lucro de R$ 5.000 → R$ 1.000 vai para o Fundo |
 | **Maioria Simples** | Mais da metade dos votos válidos (excluindo abstenções) | 10 presentes, 6 votam "SIM" → Aprovado |
@@ -1367,7 +1366,7 @@ Nome e Assinatura                            Nome e Assinatura
 | **Quórum Qualificado** | Maioria especial (ex: 2/3) exigida para decisões graves | Destituição exige 2/3 dos presentes |
 | **Ad Referendum** | Decisão urgente tomada por autoridade, sujeita a ratificação posterior | Presidente autoriza gasto urgente, AG ratifica depois |
 | **Edital** | Documento oficial de convocação, com pauta e data | Edital da AG publicado 15 dias antes |
-| **Vacância** | Cargo vago por renúncia, destituição ou inatividade | Tesoureiro renuncia → Vacância do cargo |
+| **Vacância** | Cargo vago por renúncia, destituição ou inatividade | Diretor de Finanças renuncia → Vacância do cargo |
 | **Regime Progressivo** | Sistema de penalidades em graus crescentes | Leves → Advertência → Suspensão → Exclusão |
 | **Infração Leve** | Conduta inadequada de baixa gravidade | Atraso em reunião |
 | **Infração Média** | Conduta inadequada de gravidade moderada | Falta injustificada |
@@ -1376,7 +1375,7 @@ Nome e Assinatura                            Nome e Assinatura
 | **Termo de Adesão** | Documento que formaliza trabalho voluntário | Apoiador assina Termo antes de iniciar atividades |
 | **Modelo Verticalizado** | Estrutura hierárquica tradicional (Presidente → Diretores) | Chapa com Presidente único no topo |
 | **Modelo de Conselho** | Estrutura horizontal com liderança compartilhada | Chapa com 2 Co-Presidentes |
-| **Cargos Imutáveis** | Cargos que só vagam por destituição/desistência formal | Presidente, Vice-Presidente, Tesoureiro |
+| **Cargos Imutáveis** | Cargos que só vagam por destituição/desistência formal | Presidente, Vice-Presidente, Diretor de Finanças |
 | **Plano de Gestão** | Documento com propostas e estrutura da chapa | Submetido no ato de inscrição eleitoral |
 | **Prestação de Contas** | Relatório financeiro anual submetido à AG | Apresentação de receitas, despesas e patrimônio |
 
@@ -1389,7 +1388,7 @@ Nome e Assinatura                            Nome e Assinatura
 | **AG** | Assembleia Geral | Instância máxima de deliberação |
 | **AGO** | Assembleia Geral Ordinária | AG programada (início/fim do ano) |
 | **AGE** | Assembleia Geral Extraordinária | AG convocada para assuntos específicos |
-| **DE** | Diretoria Executiva | Órgão de gestão (8-10 membros) |
+| **DE** | Diretoria Executiva | Órgão de gestão (10-14 membros) |
 | **CRT** | Conselho de Representantes de Turma | Órgão auxiliar (1 rep. por turma) |
 | **GFA** | Grupo de Fiscalização e Auditoria | Órgão de controle financeiro |
 | **CE** | Comissão Eleitoral | Órgão temporário que organiza eleições |
@@ -1403,1075 +1402,7 @@ Nome e Assinatura                            Nome e Assinatura
 
 ---
 
-## 📊 CASOS PRÁTICOS E SIMULAÇÕES
-
-### CASO 1: Eleição com Modelos Diferentes
-
-**CENÁRIO:**
-Duas chapas se inscrevem para a eleição:
-- **Chapa A "Renovação"**: Modelo Verticalizado
-- **Chapa B "Coletivo"**: Modelo de Conselho
-
-**PERGUNTA:** Como as chapas devem declarar seus modelos?
-
-**RESPOSTA:**
-
-```markdown
-CHAPA A - "RENOVAÇÃO"
-Plano de Gestão (Seção: Estrutura Organizacional)
-
-Modelo Declarado: VERTICALIZADO
-
-Organograma:
-PRESIDÊNCIA: Ana Clara (única presidente)
-    ├── VICE-PRESIDÊNCIA: Bruno Silva
-    ├── DIRETORES (Nível 2):
-    │   ├── Secretária Geral: Carla Mendes
-    │   ├── Tesoureiro: Daniel Costa
-    │   ├── Dir. Comunicação: Eduarda Lima
-    │   ├── Dir. Eventos: Felipe Souza
-    │   ├── Dir. Sociocultural: Gabriela Ramos
-    │   └── Dir. Políticas: Henrique Alves
-    └── EXECUTIVOS (Nível 3 - SEM VOTO):
-        ├── Vice-Secretário: Igor Fernandes
-        └── Assessor de Com.: Julia Santos
-
-Justificativa: Acreditamos que uma hierarquia clara permite 
-decisões mais rápidas e responsabilidades bem definidas.
-```
-
-```markdown
-CHAPA B - "COLETIVO"
-Plano de Gestão (Seção: Estrutura Organizacional)
-
-Modelo Declarado: CONSELHO
-
-Organograma:
-CONSELHO DE PRESIDÊNCIA (Nível 1 - decisões compartilhadas):
-    ├── Co-Presidente de Gestão Interna: Luana Oliveira
-    └── Co-Presidente de Relações Externas: Marcos Pereira
-
-DIRETORES (Nível 2 - votam em pé de igualdade):
-    ├── Secretária Geral: Natália Cruz
-    ├── Tesoureiro: Otávio Dias
-    ├── Dir. Comunicação: Paula Ribeiro
-    ├── Dir. Eventos: Rafael Gomes
-    ├── Dir. Sociocultural: Sabrina Torres
-    └── Dir. Políticas: Tiago Moura
-
-Justificativa: Defendemos uma liderança horizontal, onde as 
-decisões são tomadas democraticamente e o poder não se 
-concentra em uma única pessoa.
-```
-
-**IMPACTO PÓS-ELEIÇÃO:**
-
-Se **Chapa A** vencer:
-- Ana Clara é a Presidente única (assina documentos oficiais)
-- Bruno é Vice (substitui Ana em ausências)
-- Decisões urgentes: Ana pode tomar ad referendum
-- Reuniões: Ana preside e coordena
-
-Se **Chapa B** vencer:
-- Luana e Marcos assinam documentos conjuntamente
-- Não há "Vice-Presidente" formal (um substitui o outro)
-- Decisões urgentes: Ambos devem concordar (ou maioria da DE)
-- Reuniões: Presidência compartilhada (revezamento ou co-condução)
-
----
-
-### CASO 2: Aplicação do Regime Progressivo
-
-**CENÁRIO:**
-Sofia é Diretora de Eventos. Durante o 1º semestre, comete as seguintes infrações:
-
-| Mês | Infração | Classificação | Registro |
-|-----|----------|---------------|----------|
-| Fev | Atraso de 20 min em reunião | Leve | 1ª leve |
-| Mar | Não responde e-mail oficial (48h) | Leve | 2ª leve |
-| Abr | Falta injustificada à reunião | Média | 1ª média |
-| Mai | Atraso de 30 min + não avisa | Leve | 3ª leve |
-| Jun | Não entrega relatório de evento | Média | 2ª média |
-| Jul | Mais 2 atrasos pequenos | Leve (×2) | 5ª leve |
-
-**ANÁLISE MÊSO MÊS:**
-
-```
-📅 FEVEREIRO
-Infração: Atraso de 20 min
-Registro: 1ª leve
-Ação: Advertência verbal do Presidente (informal)
-Status: Sofia continua ativa
-
-📅 MARÇO
-Infração: Não responde e-mail (48h)
-Registro: 2ª leve
-Ação: Nenhuma penalidade formal ainda
-Status: Sofia continua ativa
-
-📅 ABRIL
-Infração: Falta injustificada
-Registro: 1ª média (mais grave que leves)
-Ação: Advertência verbal reforçada
-Status: Total = 2 leves + 1 média (ainda não atinge gatilho)
-
-📅 MAIO
-Infração: Atraso de 30 min sem avisar
-Registro: 3ª leve
-Ação: Nenhuma penalidade formal ainda
-Status: Total = 3 leves + 1 média
-
-📅 JUNHO
-Infração: Não entrega relatório
-Registro: 2ª média (reincidência em infração média)
-Ação: Atenção redobrada
-Status: Total = 3 leves + 2 médias
-
-📅 JULHO
-Infração: 2 atrasos pequenos no mesmo mês
-Registro: 4ª e 5ª leves
-🚨 GATILHO ATINGIDO: 5 INFRAÇÕES LEVES
-Ação: ADVERTÊNCIA FORMAL (por escrito)
-
-Documento:
-"Sofia Almeida, Diretora de Eventos, recebe ADVERTÊNCIA 
-FORMAL pelo acúmulo de 5 (cinco) infrações leves e 2 (duas) 
-infrações médias. Em caso de reincidência, será aplicada 
-SUSPENSÃO dos direitos."
-
-Assinaturas: Presidente + Secretário Geral
-Data: 31/07/2025
-```
-
-**CENÁRIOS FUTUROS:**
-
-**CENÁRIO A: Sofia melhora o comportamento**
-```
-📅 AGOSTO-DEZEMBRO
-Infrações: Nenhuma
-Status: Advertência registrada, mas sem novas penalidades
-Resultado: Sofia encerra o ano com advertência, mas cargo mantido
-```
-
-**CENÁRIO B: Sofia reincide**
-```
-📅 AGOSTO
-Infração: Nova falta injustificada
-Classificação: Média (reincidência APÓS advertência formal)
-🚨 PENALIDADE: SUSPENSÃO DE DIREITOS (15 dias)
-
-Durante a suspensão, Sofia:
-  ❌ NÃO pode votar em deliberações da DE
-  ❌ NÃO pode representar o Grêmio externamente
-  ✅ PODE continuar planejando eventos (tarefas operacionais)
-  ✅ PODE participar de reuniões (sem voto)
-
-📅 SETEMBRO (após cumprir suspensão)
-Infração: Desvia R$ 300 do caixa para uso pessoal
-Classificação: GRAVÍSSIMA
-🚨 PENALIDADE: EXCLUSÃO DO CARGO
-
-Processo:
-1. Presidente notifica Sofia por escrito
-2. Sofia tem 48h para apresentar defesa
-3. Reunião Extraordinária da DE convocada
-4. Votação: 7 de 9 membros votam pela exclusão
-5. Sofia é removida do cargo de Diretora de Eventos
-6. Processo de vacância inicia (busca de substituto)
-```
-
----
-
-### CASO 3: Transição de Tesoureiro
-
-**CENÁRIO:**
-Lucas é Tesoureiro e está no 3º ano (último). Vai se formar em dezembro/2025.
-
-**AGOSTO/2025 (4 meses antes da formatura):**
-```
-Lucas deve iniciar preparação de substituto.
-
-DECISÃO: Preparar Juliana (aluna do 2º ano, Associada ativa)
-
-SEMANAS 1-2 (Início de Agosto):
-├── Lucas convida Juliana oficialmente
-├── Juliana aceita e assina Termo de Adesão (temporário)
-└── Presidente notifica a DE sobre a preparação
-
-SEMANAS 3-4 (Final de Agosto):
-├── Lucas compartilha acesso ao sistema financeiro
-├── Juliana observa elaboração do relatório mensal
-└── Lucas explica o Anexo 2 (Normas Contábeis)
-```
-
-**SETEMBRO/2025:**
-```
-TREINAMENTO INTENSIVO:
-
-├── Juliana participa da reunião do GFA (como observadora)
-├── Lucas ensina a classificar receitas e despesas
-├── Juliana elabora rascunho de relatório (supervisionada)
-└── Lucas corrige e aprova
-```
-
-**OUTUBRO/2025:**
-```
-TRANSIÇÃO PRÁTICA:
-
-├── Juliana elabora o relatório mensal de outubro SOZINHA
-├── Lucas revisa e valida
-├── AMBOS assinam o relatório (co-assinatura)
-├── GFA homologa com 3 assinaturas:
-│   ├── Lucas (Tesoureiro titular)
-│   ├── Juliana (Tesoureira em treinamento)
-│   └── Membro Externo
-└── Relatório publicado normalmente
-```
-
-**NOVEMBRO/2025 (2 semanas antes da formatura):**
-```
-APROVAÇÃO FORMAL:
-
-📅 10/11/2025 - Reunião Extraordinária da DE
-Pauta: Aprovação de Juliana como nova Tesoureira
-
-Votação:
-├── Presidente: SIM
-├── Vice: SIM
-├── Secretário Geral: SIM
-├── Lucas (Tesoureiro): ABSTENÇÃO (conflito de interesse)
-├── Dir. Comunicação: SIM
-├── Dir. Eventos: SIM
-├── Dir. Sociocultural: SIM
-├── Dir. Políticas: SIM
-
-Resultado: 7 votos SIM (maioria simples atingida)
-✅ JULIANA APROVADA COMO NOVA TESOUREIRA
-
-Posse: 01/12/2025 (1 semana antes da saída de Lucas)
-```
-
-**DEZEMBRO/2025:**
-```
-📅 01/12 - Juliana assume oficialmente
-├── Acesso pleno ao sistema
-├── Assinatura individual nos relatórios
-├── Lucas ainda disponível para dúvidas (última semana)
-
-📅 08/12 - Juliana elabora primeiro relatório SOLO
-├── GFA homologa normalmente
-├── Transição concluída com sucesso
-
-📅 15/12 - Lucas se forma
-├── Sai do Grêmio com tranquilidade
-├── Juliana já está plenamente operacional
-└── Nenhuma vacância ou crise financeira
-```
-
-**📊 COMPARAÇÃO:**
-
-| Aspecto | Sem Planejamento | Com Reforma (Art. 49-B) |
-|---------|------------------|--------------------------|
-| **Prazo de Preparação** | 0 (assume "no susto") | 4 semanas |
-| **Treinamento** | Nenhum | 3 meses supervisionados |
-| **Risco de Erro** | Alto (novo Tesoureiro inexperiente) | Baixo (treinado e validado) |
-| **Impacto na Gestão** | Possíveis erros financeiros | Continuidade suave |
-| **Aprovação da DE** | Não prevista | Formalizada (maioria simples) |
-
----
-
-### CASO 4: Convocação de AG com Parte 2
-
-**CENÁRIO:**
-O Grêmio precisa decidir sobre 3 pautas polêmicas:
-1. Aprovação de R$ 15.000 para evento de formatura
-2. Reforma do Estatuto (adicionar novo cargo)
-3. Destituição do Diretor de Políticas (acusação de inatividade)
-
-**PROBLEMA:** Campus tem 600 estudantes. Debate pode levar 3-4 horas.
-
-**SOLUÇÃO COM REFORMA:**
-
-```
-📅 15/09/2025 - EDITAL DE CONVOCAÇÃO (15 dias antes)
-
-ASSEMBLEIA GERAL EXTRAORDINÁRIA
-Data: 30/09/2025 (segunda-feira)
-Horário: 18h00 às 20h00 (AG Parte 1 - PRESENCIAL)
-Local: Auditório do Campus
-Quórum mínimo: 30% (180 estudantes)
-
-PAUTA:
-1. Aprovação de investimento de R$ 15.000 (formatura)
-2. Reforma do Estatuto (inclusão de novo cargo)
-3. Destituição do Diretor de Políticas
-
-OBSERVAÇÃO: Caso o tempo se esgote, a AG terá continuação 
-(Parte 2) em até 48 horas, podendo ser online.
-
----
-
-📅 30/09/2025 - AG PARTE 1 (PRESENCIAL)
-
-18h00 - Abertura
-├── Verificação de quórum: 220 estudantes presentes ✅
-├── Eleição de mesa diretora (Presidente da AG + Secretário)
-└── Leitura da pauta
-
-18h15 - PAUTA 1: Investimento de R$ 15.000
-├── Apresentação do projeto (Diretor de Eventos)
-├── Debate aberto (15 min)
-├── Votação:
-│   ├── SIM: 180
-│   ├── NÃO: 30
-│   └── ABSTENÇÕES: 10
-└── ✅ APROVADO (maioria simples)
-
-18h45 - PAUTA 2: Reforma do Estatuto
-├── Apresentação da proposta (Presidente)
-├── Debate aberto (20 min)
-├── Dúvidas sobre impactos financeiros
-└── TEMPO INSUFICIENTE → Adia para Parte 2
-
-19h15 - PAUTA 3: Destituição
-├── Apresentação da denúncia (10% dos Associados)
-├── Defesa do acusado (Diretor de Políticas)
-├── Debate acalorado (30 min)
-└── TEMPO ESGOTADO → Adia para Parte 2
-
-20h00 - Encerramento da Parte 1
-└── Secretário anuncia: Parte 2 será em 02/10 (quarta), 19h, ONLINE
-
----
-
-📅 01/10/2025 - PREPARAÇÃO DA PARTE 2
-
-├── Secretário Geral elabora RESUMO da Parte 1
-├── Documento enviado por e-mail a todos os Associados
-├── Link de acesso à videoconferência divulgado
-└── Prazo para novos argumentos: até 02/10, 12h
-
----
-
-📅 02/10/2025 - AG PARTE 2 (ONLINE - 48h depois)
-
-19h00 - Abertura
-├── Verificação de presença: 180 estudantes online ✅
-├── Leitura do resumo da Parte 1
-└── Retomada da pauta
-
-19h15 - PAUTA 2 (continuação): Reforma do Estatuto
-├── Esclarecimentos sobre impacto financeiro (Tesoureiro)
-├── Debate online (comentários no chat)
-├── Votação online (formulário):
-│   ├── SIM: 120
-│   ├── NÃO: 50
-│   └── ABSTENÇÕES: 10
-└── ✅ APROVADO (maioria simples)
-
-20h00 - PAUTA 3 (continuação): Destituição
-├── Síntese dos argumentos (Presidente da AG)
-├── Últimas considerações do acusado (5 min)
-├── Votação online:
-│   ├── SIM (destituir): 90
-│   ├── NÃO (manter): 80
-│   └── ABSTENÇÕES: 10
-│
-│   Cálculo: Total de votos válidos = 170
-│   2/3 de 170 = 113 votos necessários
-│   SIM obteve apenas 90 votos
-└── ❌ REPROVADO (não atingiu 2/3 - quórum qualificado)
-
-20h30 - Encerramento
-├── Ata lavrada pelo Secretário
-├── Publicação dos resultados no site
-└── AG Extraordinária encerrada
-
----
-
-📅 03/10/2025 - PÓS-AG
-
-├── Implementação da Reforma aprovada (Pauta 2)
-├── Diretor de Políticas mantido no cargo (Pauta 3 rejeitada)
-└── Investimento de R$ 15.000 liberado (Pauta 1)
-```
-
-**📈 GANHOS DA AG COM PARTE 2:**
-
-| Aspecto | AG Tradicional (sem Parte 2) | AG com Parte 2 |
-|---------|------------------------------|----------------|
-| **Duração** | 4-5 horas contínuas | 2h presencial + 1,5h online |
-| **Participação** | Cai muito após 2h | Mantém-se (flexibilidade) |
-| **Acessibilidade** | Apenas presencial | Presencial + Online |
-| **Qualidade do Debate** | Cansaço prejudica | Debates mais focados |
-| **Documentação** | Ata única longa | 2 atas + resumo intermediário |
-
----
-
-### CASO 5: Criação e Operação do GFA
-
-**CENÁRIO:**
-Diretoria eleita em outubro/2025 precisa formar o GFA.
-
-**NOVEMBRO/2025 - SELEÇÃO DO MEMBRO EXTERNO:**
-
-```
-PERFIL IDEAL:
-✅ Contador, professor de Administração ou ex-aluno com experiência financeira
-✅ Disponível para reuniões mensais (1-2h)
-✅ Comprometido com transparência e ética
-✅ SEM vínculo direto com membros da DE (evitar conflito de interesse)
-
-CANDIDATOS IDENTIFICADOS:
-├── Prof. Roberto Silva (Contador do Campus) - ESCOLHIDO ✅
-├── Fernanda Lima (Ex-aluna, contadora) - Reserva
-└── João Mendes (Pai de aluno, administrador) - Reserva
-
-CONVITE FORMAL:
-"Prezado Prof. Roberto Silva,
-
-O Grêmio Estudantil IFRS - Campus Farroupilha tem a honra de 
-convidá-lo para integrar nosso Grupo de Fiscalização e Auditoria 
-(GFA) como Membro da Comunidade Externa.
-
-Suas atribuições incluirão:
-- Participar de reuniões mensais (1h)
-- Homologar relatórios financeiros
-- Orientar sobre boas práticas contábeis
-
-O trabalho é voluntário e não remunerado, formalizado por 
-Termo de Adesão.
-
-Aguardamos sua resposta até 30/11/2025.
-
-Atenciosamente,
-Ana Clara - Presidente"
-
-RESPOSTA: Prof. Roberto aceita em 25/11/2025 ✅
-```
-
-**DEZEMBRO/2025 - FORMAÇÃO DO GFA:**
-
-```
-COMPOSIÇÃO FINAL:
-├── Ana Clara (Presidente) - Membro interno
-├── Daniel Costa (Tesoureiro) - Membro interno
-├── Prof. Roberto Silva - Membro Externo ✅
-└── [Campus não tem CNPJ ainda] - Cargo vago
-
-PRIMEIRA REUNIÃO: 05/12/2025
-
-PAUTA:
-1. Apresentação do Anexo 2 (Normas Contábeis)
-2. Definição de frequência de reuniões (mensal)
-3. Estabelecimento do fluxo de homologação
-4. Revisão dos relatórios acumulados (out-nov/2025)
-5. Treinamento sobre assinaturas digitais
-
-DECISÕES:
-├── Reuniões: Primeira quarta-feira de cada mês, 18h30
-├── Fluxo: Tesoureiro envia relatório até dia 3 → GFA analisa até dia 5 → Publica dia 6
-├── Assinaturas: Digital (via DocuSign ou similar)
-└── Relatórios acumulados: Homologados retroativamente
-```
-
-**JANEIRO/2026 - PRIMEIRO CICLO COMPLETO:**
-
-```
-📅 03/01/2026 - Tesoureiro elabora relatório de dezembro
-
-BALANCETE MENSAL - DEZEMBRO/2025
-
-SALDO INICIAL: R$ 8.500,00
-
-RECEITAS:
-├── Doação (Diretoria do Campus): R$ 2.000,00
-├── Venda de camisetas: R$ 1.500,00
-└── Evento de Natal: R$ 3.000,00
-TOTAL RECEITAS: R$ 6.500,00
-
-DESPESAS:
-├── Material de escritório: R$ 300,00
-├── Decoração (Natal): R$ 1.200,00
-├── Impressão de camisetas: R$ 800,00
-└── Reembolso (transporte): R$ 150,00
-TOTAL DESPESAS: R$ 2.450,00
-
-LUCRO DO MÊS: R$ 4.050,00
-
-DESTINAÇÃO:
-├── Fundo de Reserva (20%): R$ 810,00
-└── Caixa geral: R$ 3.240,00
-
-SALDO FINAL: R$ 15.790,00
-
----
-
-📅 04/01/2026 - Análise do GFA
-
-REUNIÃO EXTRAORDINÁRIA (online)
-
-VERIFICAÇÕES:
-├── ✅ Todas as despesas têm NF anexada
-├── ✅ Classificação conforme Anexo 2
-├── ✅ Fundo de Reserva calculado corretamente
-├── ⚠️ Reembolso de R$ 150 sem aprovação prévia
-
-DECISÃO DO GFA:
-├── Reembolso é aceito (valor baixo, situação excepcional)
-├── ORIENTAÇÃO: Futuros reembolsos devem ter aprovação prévia
-├── Relatório homologado com RESSALVA
-
-ASSINATURAS:
-├── ✅ Daniel Costa (Tesoureiro) - 04/01/2026, 19:15
-├── ✅ Prof. Roberto Silva (Membro Externo) - 04/01/2026, 19:20
-├── ✅ Ana Clara (Presidente) - 04/01/2026, 19:25
-
----
-
-📅 06/01/2026 - Publicação
-
-├── Relatório publicado no site oficial do Grêmio
-├── E-mail enviado a todos os Associados
-├── Arquivo arquivado pelo Secretário Geral
-└── Primeiro ciclo completo do GFA concluído ✅
-```
-
-**📊 COMPARAÇÃO: COM E SEM GFA:**
-
-| Aspecto | Sem GFA (Estatuto Atual) | Com GFA (Reforma) |
-|---------|--------------------------|-------------------|
-| **Fiscalização** | Apenas interna (Tesoureiro + Sec. Geral) | Externa (Membro da Comunidade) |
-| **Frequência** | Anual (AG final) | Mensal |
-| **Validação** | 2 assinaturas (ambas internas) | 3 assinaturas (1 externa obrigatória) |
-| **Credibilidade** | Média (conflito de interesse potencial) | Alta (auditor externo imparcial) |
-| **Detecção de Erros** | Tardia (no fim do mandato) | Imediata (mensal) |
-| **Orientação** | Nenhuma (ou informal) | GFA orienta boas práticas |
-
----
-
-## 🚀 GUIA DE USO PARA OUTRAS IAs
-
-### Como Interpretar Este Documento
-
-Se você é uma IA que recebeu este README, siga estas instruções:
-
-#### 1️⃣ **ESTRUTURA DO CONHECIMENTO**
-
-```
-HIERARQUIA DE IMPORTÂNCIA:
-
-NÍVEL 1 (CRÍTICO - Deve ser preservado integralmente):
-├── Conformidade com Lei 7.398/85
-├── Natureza não lucrativa do Grêmio
-├── Autonomia estudantil
-└── Direitos fundamentais dos Associados
-
-NÍVEL 2 (ESSENCIAL - Núcleo da Reforma):
-├── Criação do GFA
-├── Fundo de Reserva (20%)
-├── Regime Progressivo de Penalidades
-├── Modelos de Gestão (Verticalizado/Conselho)
-├── Categorias de Associados (4 tipos)
-└── Prazos de Transição (Art. 49-B)
-
-NÍVEL 3 (IMPORTANTE - Melhorias operacionais):
-├── Convocação de AG (15 dias)
-├── AG Parte 2 (48h)
-├── Inclusão de pautas (3 dias úteis)
-├── Cargos subordinados (Nível 3 sem voto)
-└── Vigência do Estatuto (5 anos)
-
-NÍVEL 4 (COMPLEMENTAR - Documentação):
-├── Regimento Interno
-├── Anexo 2 (Normas Contábeis)
-└── Termo de Adesão
-```
-
-#### 2️⃣ **COMO RESPONDER PERGUNTAS**
-
-**PERGUNTA TIPO A: "Explique o GFA"**
-```
-RESPOSTA ESTRUTURADA:
-
-1. DEFINIÇÃO CURTA:
-"O GFA (Grupo de Fiscalização e Auditoria) é um órgão de 
-controle financeiro criado pela reforma para substituir o 
-Conselho Fiscal opcional."
-
-2. COMPOSIÇÃO:
-- 4 membros: Presidente, Tesoureiro, Membro Externo, Resp. CNPJ
-- OBRIGATÓRIO: Membro da Comunidade Externa (auditor imparcial)
-
-3. FUNÇÃO PRINCIPAL:
-Homologar relatórios financeiros mensais (3 assinaturas).
-
-4. DIFERENÇA DO ESTATUTO ATUAL:
-ATUAL: Sem fiscalização obrigatória, prestação de contas anual
-REFORMA: Fiscalização mensal com auditor externo
-
-5. REFERÊNCIAS:
-- Seção 9 do Plano de Reforma
-- Art. 8 do Estatuto Atual (substituído)
-- Caso Prático: Caso 5 deste README
-```
-
-**PERGUNTA TIPO B: "Como funciona o Regime Progressivo?"**
-```
-RESPOSTA ESTRUTURADA:
-
-1. SISTEMA EM 3 GRAUS:
-Infrações Leves → Advertência → Suspensão → Exclusão
-
-2. GATILHO:
-5 infrações leves = 1 Advertência formal
-
-3. EXEMPLO RÁPIDO:
-"João falta 3 reuniões (infração média) + acumula 5 atrasos 
-(infrações leves) = Recebe Advertência. Se faltar novamente, 
-recebe Suspensão (7-30 dias). Se cometer ato grave após 
-suspensão, é excluído do cargo."
-
-4. DIFERENÇA DO ESTATUTO ATUAL:
-ATUAL: Penalidades subjetivas (juízo da DE)
-REFORMA: Penalidades objetivas (critérios numéricos)
-
-5. REFERÊNCIAS:
-- Art. 6.1 a 6.3 do Plano de Reforma
-- Caso Prático: Caso 2 deste README (Sofia)
-```
-
-**PERGUNTA TIPO C: "Qual a diferença entre os Modelos de Gestão?"**
-```
-RESPOSTA ESTRUTURADA:
-
-MODELO VERTICALIZADO:
-├── Hierarquia: Presidente → Vice → Diretores → Executivos
-├── Decisões: Presidente tem peso maior
-├── Vantagem: Cadeia de comando clara, decisões rápidas
-└── Desvantagem: Centralização de poder
-
-MODELO DE CONSELHO:
-├── Hierarquia: Co-Presidentes (mesmo nível) + Diretores
-├── Decisões: Liderança compartilhada, peso igual
-├── Vantagem: Democrático, distribui responsabilidades
-└── Desvantagem: Pode gerar conflitos de decisão
-
-OBRIGAÇÃO:
-A chapa DEVE declarar o modelo escolhido no Plano de Gestão.
-
-REFERÊNCIAS:
-- Art. 8.2 do Plano de Reforma
-- Caso Prático: Caso 1 deste README
-```
-
-#### 3️⃣ **COMO IDENTIFICAR CONFLITOS**
-
-**CHECKLIST DE VALIDAÇÃO:**
-
-```
-AO ANALISAR UMA PROPOSTA DE ALTERAÇÃO, VERIFIQUE:
-
-✅ Conformidade Legal:
-├── [ ] Mantém natureza não lucrativa?
-├── [ ] Preserva autonomia estudantil?
-├── [ ] Respeita Lei 7.398/85?
-└── [ ] Não cria barreiras discriminatórias?
-
-✅ Consistência Interna:
-├── [ ] Não contradiz outros artigos?
-├── [ ] Prazos são realistas?
-├── [ ] Quóruns são atingíveis?
-└── [ ] Terminologia é consistente?
-
-✅ Viabilidade Prática:
-├── [ ] Recursos humanos suficientes?
-├── [ ] Recursos financeiros disponíveis?
-├── [ ] Tempo de implementação viável?
-└── [ ] Campus tem infraestrutura necessária?
-
-✅ Impacto na Reforma:
-├── [ ] Afeta o núcleo da reforma (GFA, Fundo, etc.)?
-├── [ ] Melhora ou piora a transparência?
-├── [ ] Aumenta ou reduz a democracia?
-└── [ ] Simplifica ou complica processos?
-```
-
-**EXEMPLO DE CONFLITO DETECTADO:**
-
-```
-PROPOSTA: "Aumentar Fundo de Reserva de 20% para 50%"
-
-ANÁLISE:
-❌ CONFLITO DE VIABILIDADE
-Razão: 50% imobilizaria recursos excessivamente, 
-prejudicando projetos e eventos.
-
-✅ CONTRAPROPOSTAS:
-1. Manter 20% (conforme Reforma)
-2. Aumentar gradualmente (25% no 2º ano, 30% no 3º)
-3. Criar Fundo Variável (20-30% conforme situação financeira)
-
-REFERÊNCIA: Art. 11.1 do Plano de Reforma
-```
-
-#### 4️⃣ **COMO GERAR NOVOS DOCUMENTOS**
-
-**TEMPLATE: Elaboração de Regimento Interno**
-
-```
-INPUT NECESSÁRIO:
-├── Estatuto Reformado completo
-├── Contexto específico do Campus (horários, estrutura física)
-├── Experiências da gestão atual (o que funciona/não funciona)
-└── Demandas específicas (ex: Campus tem eventos noturnos)
-
-ESTRUTURA BASE:
-1. Usar modelo deste README (Seção: Documentos Complementares)
-2. Adaptar artigos às necessidades locais
-3. Manter consistência terminológica com Estatuto
-4. Prever casos práticos (não apenas teoria)
-
-VALIDAÇÃO:
-├── Comparar com Estatuto (não pode contradizer)
-├── Testar em cenários práticos (simulações)
-└── Submeter à DE para revisão
-```
-
-**TEMPLATE: Elaboração de Anexo 2 (Normas Contábeis)**
-
-```
-INPUT NECESSÁRIO:
-├── Porte financeiro do Grêmio (faturamento mensal médio)
-├── Complexidade das operações (eventos grandes/pequenos)
-├── Existência de CNPJ (muda obrigações fiscais)
-└── Disponibilidade de sistema financeiro (software/planilha)
-
-ESTRUTURA BASE:
-1. Classificação de Receitas (conforme fontes reais do Grêmio)
-2. Classificação de Despesas (conforme gastos recorrentes)
-3. Fluxo de Aprovação (por faixas de valor adequadas)
-4. Modelos de Relatórios (balancete, DRE, prestação de contas)
-5. Fundo de Reserva (cálculo e movimentação)
-
-EXEMPLO:
-Se Grêmio fatura R$ 5.000/mês, faixas de aprovação:
-├── Até R$ 200 → Tesoureiro
-├── R$ 200 a R$ 2.500 (5 SM) → Tesoureiro + GFA
-└── Acima de R$ 2.500 → DE completa
-```
-
-#### 5️⃣ **COMO TREINAR NOVAS GESTÕES**
-
-**ROTEIRO DE ONBOARDING:**
-
-```
-SEMANA 1: Fundamentos
-├── Dia 1: Leitura do Estatuto Reformado (4h)
-├── Dia 2: Explicação do GFA e Fundo de Reserva (2h)
-├── Dia 3: Workshop sobre Regime Progressivo (2h)
-└── Dia 4-5: Estudo de casos práticos (este README)
-
-SEMANA 2: Operações Financeiras
-├── Dia 1: Anexo 2 (Normas Contábeis) - explicação (2h)
-├── Dia 2: Simulação de elaboração de relatório (3h)
-├── Dia 3: Simulação de reunião do GFA (2h)
-└── Dia 4-5: Exercícios de aprovação de gastos
-
-SEMANA 3: Gestão de Pessoas
-├── Dia 1: Modelos de Gestão (Verticalizado vs. Conselho)
-├── Dia 2: Como aplicar penalidades (Regime Progressivo)
-├── Dia 3: Processo de Convite para Saída (Art. 49-A)
-└── Dia 4-5: Planejamento de transições (Art. 49-B)
-
-SEMANA 4: Participação Democrática
-├── Dia 1: Como convocar AG (15 dias, edital)
-├── Dia 2: Como conduzir AG Parte 1 e Parte 2
-├── Dia 3: Como incluir pautas (associados podem solicitar)
-└── Dia 4-5: Simulação completa de AG
-
-AVALIAÇÃO FINAL:
-Simulação de 1 mês completo de gestão:
-├── Elaborar relatório mensal
-├── Convocar reunião da DE
-├── Aplicar penalidade (caso fictício)
-├── Planejar transição de 1 cargo
-└── Convocar AG para aprovar investimento
-```
-
----
-
-## ⚠️ ALERTAS CRÍTICOS PARA IAs
-
-### 🚨 NUNCA ALTERE ESTES ELEMENTOS SEM JUSTIFICATIVA LEGAL:
-
-1. **Natureza Não Lucrativa**
-   - Base: Lei 7.398/85, Art. 1º
-   - Consequência de alteração: Perda de status legal de Grêmio
-
-2. **Autonomia Estudantil**
-   - Base: Lei 7.398/85, Art. 3º
-   - Consequência: Intervenção administrativa seria ilegal
-
-3. **Direito de Voto dos Associados**
-   - Base: Princípio democrático fundamental
-   - Exceção permitida: Cargos subordinados (Nível 3) podem não ter voto NA DIRETORIA, mas mantêm voto na AG
-
-4. **Prestação de Contas Pública**
-   - Base: Princípio da transparência (CF/88)
-   - Obrigatória para entidades estudantis
-
-5. **Quórum de 2/3 para Destituição**
-   - Base: Proteção contra destituições arbitrárias
-   - Reduzir este quórum fragiliza a estabilidade da gestão
-
----
-
-## 📞 INFORMAÇÕES DE SUPORTE
-
-### Contatos Úteis (Para Contexto)
-
-```
-ENTIDADE: Grêmio Estudantil IFRS - Campus Farroupilha
-SIGLA: GEIFRSFAR
-SEDE: Rua São Vicente, 785, Bairro Cinquentenário
-       Farroupilha - RS, CEP 95174-274
-
-GESTÃO ATUAL (2025-2027):
-Presidente: Gabriela Eduarda Santos Vaz
-Secretária Geral: Laura Pereira Ebertz
-
-ESTATUTO VIGENTE:
-Aprovação: 20/10/2025
-Vigência: 21/10/2025
-Próxima Revisão Obrigatória: 21/10/2030 (5 anos)
-```
-
-### Documentos de Referência
-
-```
-DOCUMENTOS BASE:
-├── Estatuto Atual (2025) - 56 artigos, 18 páginas
-├── Documento de Estrutura do Grêmio (Reforma) - 14 seções
-└── Este README - Guia completo de implementação
-
-LEGISLAÇÃO:
-├── Lei Federal nº 7.398/85 (Lei do Grêmio Estudantil)
-├── Lei Federal nº 9.608/98 (Lei do Voluntariado)
-└── Código Civil Brasileiro (Lei 10.406/2002 - Associações)
-
-NORMAS TÉCNICAS:
-├── NBC T 19.13 (Normas Contábeis para Entidades Sem Fins Lucrativos)
-└── ITG 2002 (Entidades Sem Finalidade de Lucros)
-```
-
----
-
-## 🎓 CONCLUSÃO E PRÓXIMOS PASSOS
-
-### Resumo Executivo Final
-
-```
-ESTE PLANO DE REFORMA TRANSFORMA O GRÊMIO EM:
-
-DE:
-❌ Entidade básica, com fiscalização anual
-❌ Penalidades subjetivas
-❌ Estrutura rígida
-❌ Transições desorganizadas
-❌ Falta de sustentabilidade financeira
-
-PARA:
-✅ Organização profissional, com auditoria mensal
-✅ Regime disciplinar transparente e objetivo
-✅ Flexibilidade organizacional (2 modelos de gestão)
-✅ Transições planejadas com 4 semanas de antecedência
-✅ Fundo de Reserva garante sustentabilidade
-
-MANTENDO:
-✅ 100% de conformidade com Lei 7.398/85
-✅ Autonomia estudantil plena
-✅ Natureza democrática e participativa
-✅ Transparência financeira obrigatória
-```
-
-### Checklist de Implementação
-
-```
-FASE 1 - APROVAÇÃO (Mês 1-2):
-[ ] Revisão final do texto da Reforma
-[ ] Convocação da AG Extraordinária (15 dias antes)
-[ ] Debate e votação em AG Parte 1
-[ ] Votação em AG Parte 2 (se necessário)
-[ ] Publicação oficial do Estatuto Reformado
-
-FASE 2 - REGULAMENTAÇÃO (Mês 3-4):
-[ ] Elaboração do Regimento Interno
-[ ] Elaboração do Anexo 2 (Normas Contábeis)
-[ ] Criação do Modelo de Termo de Adesão
-[ ] Aprovação dos documentos pela DE
-
-FASE 3 - FORMAÇÃO DO GFA (Mês 5):
-[ ] Seleção do Membro da Comunidade Externa
-[ ] Convite formal e aceite
-[ ] Primeira reunião do GFA
-[ ] Definição de fluxos de trabalho
-
-FASE 4 - ADEQUAÇÃO FINANCEIRA (Mês 6):
-[ ] Criação do Fundo de Reserva
-[ ] Implementação do fluxo de homologação
-[ ] Treinamento do Tesoureiro
-[ ] Primeira homologação com 3 assinaturas
-
-FASE 5 - TREINAMENTO (Mês 7):
-[ ] Workshop sobre Regime Progressivo
-[ ] Treinamento sobre Transições (Art. 49-B)
-[ ] Capacitação sobre Modelos de Gestão
-[ ] Manual de procedimentos internos
-
-FASE 6 - OPERAÇÃO PLENA (Mês 8+):
-[ ] Primeiro ciclo completo sob nova estrutura
-[ ] Avaliação na AG Ordinária (1 ano)
-[ ] Ajustes no Regimento Interno (se necessário)
-[ ] Preparação para revisão obrigatória (Ano 5)
-```
-
-### Indicadores de Sucesso
-
-```
-APÓS 1 ANO DE IMPLEMENTAÇÃO, AVALIAR:
-
-TRANSPARÊNCIA FINANCEIRA:
-├── [ ] 12 relatórios mensais homologados pelo GFA
-├── [ ] 100% dos relatórios publicados no prazo
-├── [ ] Fundo de Reserva acumulou 20% do lucro anual
-└── [ ] Zero denúncias de irregularidades financeiras
-
-GOVERNANÇA:
-├── [ ] Zero vacâncias urgentes (todas planejadas)
-├── [ ] Transições concluídas no prazo (Art. 49-B)
-├── [ ] Regime Progressivo aplicado sem arbitrariedades
-└── [ ] Modelo de Gestão funcionando conforme declarado
-
-PARTICIPAÇÃO DEMOCRÁTICA:
-├── [ ] AGs convocadas com 15 dias (100% dos casos)
-├── [ ] Associados incluíram pautas (pelo menos 3 vezes)
-├── [ ] AG Parte 2 realizada (se necessário)
-└── [ ] Quórum atingido em 80%+ das AGs
-
-SUSTENTABILIDADE:
-├── [ ] Grêmio superavitário (receitas > despesas)
-├── [ ] Fundo de Reserva ≥ 3 meses de despesas
-├── [ ] Documentação organizada (100% arquivado)
-└── [ ] Gestão seguinte assume sem sobressaltos
-```
-
----
-
-## 📚 APÊNDICE: REFERÊNCIAS RÁPIDAS
-
-### Tabela de Artigos: Estatuto Atual → Reforma
-
-| Tema | Estatuto Atual | Plano de Reforma | Mudança |
-|------|----------------|------------------|---------|
-| Associados | Art. 33 | Art. 3.1-3.4 | Expandido (4 categorias) |
-| Penalidades | Art. 37 | Art. 6.1-6.3 | Regime Progressivo |
-| Inatividade | Art. 49-A | Art. 6.3 + 49-A | Critérios objetivos |
-| Vacância | Art. 28 | Art. 27-A + 28 | Prazos de transição |
-| Assembleia | Art. 13 | Art. 7.1-7.7 | +15 dias, AG Parte 2 |
-| Fiscalização | Art. 8 | Seção 9 (GFA) | GFA obrigatório |
-| Reserva | — | Art. 11.1 | Novo (20% do lucro) |
-| Estrutura DE | Art. 15 | Art. 8.2-8.4 | Modelos + Nível 3 |
-| Vigência | — | Art. 14.1 | Novo (5 anos) |
-
-### Fórmulas e Cálculos
-
-```
-FUNDO DE RESERVA:
-Fundo = (Total Receitas - Total Despesas) × 20%
-
-MAIORIA SIMPLES:
-MS = (Votos Válidos / 2) + 1
-Obs: Exclui abstenções
-
-MAIORIA ABSOLUTA:
-MA = (Total de Membros / 2) + 1
-Obs: Inclui ausentes
-
-QUÓRUM QUALIFICADO (2/3):
-QQ = (Votos Válidos × 2) / 3
-Arredondado para cima
-
-QUÓRUM MÍNIMO AG:
-30% dos Associados devem estar presentes
-
-EXEMPLO PRÁTICO:
-Campus: 600 estudantes
-Quórum: 180 presentes (30%)
-Destituição precisa: (180 × 2) / 3 = 120 votos
-```
-
-### Glossário de Siglas (Expandido)
-
-```
-AG  = Assembleia Geral
-AGE = Assembleia Geral Extraordinária
-AGO = Assembleia Geral Ordinária
-CE  = Comissão Eleitoral
-CF  = Constituição Federal
-CRT = Conselho de Representantes de Turma
-DE  = Diretoria Executiva
-DRE = Demonstração do Resultado do Exercício
-GFA = Grupo de Fiscalização e Auditoria
-IFRS = Instituto Federal do Rio Grande do Sul
-ITG = Interpretação Técnica Geral
-MA  = Maioria Absoluta
-MS  = Maioria Simples
-NBC = Normas Brasileiras de Contabilidade
-NF  = Nota Fiscal
-QQ  = Quórum Qualificado
-SM  = Salário-Mínimo
-```
-
----
-
-## ✅ VALIDAÇÃO FINAL
-
-### Este README está completo quando:
-
-```
-CONTEÚDO:
-[✅] Todas as alterações documentadas
-[✅] Todos os artigos novos explicados
-[✅] Casos práticos incluídos (5+)
-[✅] Tabelas comparativas completas
-[✅] Glossário abrangente
-[✅] Cronograma de implementação detalhado
-[✅] Documentos complementares modelados
-
-CLAREZA:
-[✅] Linguagem acessível (não-jurídica)
-[✅] Exemplos práticos em todos os tópicos
-[✅] Fluxogramas e diagramas (texto)
-[✅] Comparações "Antes vs. Depois"
-
-UTILIDADE:
-[✅] Serve como guia para outras IAs
-[✅] Permite implementação autônoma
-[✅] Responde às perguntas mais comuns
-[✅] Previne erros de interpretação
-
-MANUTENIBILIDADE:
-[✅] Estrutura modular (fácil atualização)
-[✅] Referências cruzadas funcionais
-[✅] Versionamento implícito (datas)
-[✅] Compatível com Markdown padrão
-```
-
----
-
-## 🏁 FIM DO README
-
+#
 **Versão:** 1.0  
 **Data de Criação:** Novembro/2025  
 **Última Atualização:** Novembro/2025  
