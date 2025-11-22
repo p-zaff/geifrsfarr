@@ -176,40 +176,10 @@ Livre para uso: R$ 2.400
 **Art. 8.2 (NOVO):**
 
 ##### MODELO 1: VERTICALIZADO (Hierárquico)
-```
-Presidência (Nível 1)
-    ├── Vice-Presidência (Nível 1.5)
-    │
-    ├── Diretores (Nível 2)
-    │   ├── Sec. Geral
-    │   ├── Tesoureiro
-    │   ├── Dir. Comunicação
-    │   ├── Dir. Eventos
-    │   ├── Dir. Sociocultural
-    │   └── Dir. Políticas
-    │
-    └── Executivos (Nível 3 - SEM VOTO)
-        ├── Vice-Secretário
-        ├── Assessor de Comunicação
-        └── Coordenador de Projetos
-```
+![GE-ORGEH.png]
 
 ##### MODELO 2: CONSELHO (Horizontal)
-```
-Conselho de Presidência (Nível 1)
-    ├── Co-Presidente 1
-    └── Co-Presidente 2
-    
-    ↓ (Decisões compartilhadas)
-    
-Diretores (Nível 2 - Votam em conjunto)
-    ├── Sec. Geral
-    ├── Tesoureiro
-    ├── Dir. Comunicação
-    ├── Dir. Eventos
-    ├── Dir. Sociocultural
-    └── Dir. Políticas
-```
+![GE-ORGHVA]
 
 **📌 REGRAS:**
 1. A chapa DEVE declarar o modelo escolhido no **Plano de Gestão**
@@ -2518,5 +2488,6 @@ Este documento é vivo e deve ser atualizado conforme a implementação da Refor
 - Ajustes necessários
 - Novos casos práticos
 - Erros detectados e correções
+
 
 **🎯 OBJETIVO ALCANÇADO:** ✅ Documentação completa para transferência de conhecimento sobre o Plano de Reforma Estatutária.
