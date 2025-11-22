@@ -28,14 +28,14 @@ Este README serve como **guia completo de instrução** para transferir o conhec
 ## 📊 ESTRUTURA DO DOCUMENTO
 
 ### Seções Principais:
-1. [Visão Geral das Mudanças](#visão-geral-das-mudanças)
-2. [Alterações Detalhadas por Título](#alterações-detalhadas-por-título)
-3. [Adições Completamente Novas](#adições-completamente-novas)
-4. [Tabelas de Comparação Artigo por Artigo](#tabelas-de-comparação-artigo-por-artigo)
-5. [Impactos Operacionais](#impactos-operacionais)
-6. [Cronograma de Implementação](#cronograma-de-implementação)
-7. [Documentos Complementares Necessários](#documentos-complementares-necessários)
-8. [Glossário de Termos](#glossário-de-termos)
+1. [Visão Geral das Mudanças](#-visão-geral-das-mudanças)
+2. [Alterações Detalhadas por Título](#-alterações-detalhadas-por-título)
+3. [Adições Completamente Novas](#-adições-completamente-novas)
+4. [Tabelas de Comparação Artigo por Artigo](#-tabelas-de-comparação-artigo-por-artigo)
+5. [Impactos Operacionais](#-impactos-operacionais)
+6. [Cronograma de Implementação](#-cronograma-de-implementação)
+7. [Documentos Complementares Necessários](#-documentos-complementares-necessários)
+8. [Glossário de Termos](#-glossário-de-termos)
 
 ---
 
