@@ -176,10 +176,10 @@ Livre para uso: R$ 2.400
 **Art. 8.2 (NOVO):**
 
 ##### MODELO 1: VERTICALIZADO (Hierárquico)
-![GE-ORGEH.png]
+![](GE-ORGEH.png)
 
 ##### MODELO 2: CONSELHO (Horizontal)
-![GE-ORGHVA]
+![](GE-ORGHVA.png)
 
 **📌 REGRAS:**
 1. A chapa DEVE declarar o modelo escolhido no **Plano de Gestão**
